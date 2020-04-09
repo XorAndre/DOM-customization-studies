@@ -8,10 +8,10 @@ Today we have in the current scenario of the web a large number of libraries and
 
 ```React
 function Welcome(props) {
-  return <h1>Hello, {props.key}</h1>;
+  return <h1>Hello, {props.keyword}</h1>;
 }
 
-const element = <Welcome key="World" />;
+const element = <Welcome keyword="World" />;
 ReactDOM.render(
   element,
   document.getElementById('root')
