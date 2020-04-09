@@ -17,3 +17,4 @@ ReactDOM.render(
   document.getElementById('root')
 );
 ```
+I will try to separate each study I have done and am doing. It may take a while to update, because my time is running out recently.
